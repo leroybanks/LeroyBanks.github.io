@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Leroy Banks",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://LeroyBanks.github.io/images/Leroy.png",
+    "email": "lbanks@hawaii.edu",
+    "phone": "719-290-7243",
+    "website": "https://LeroyBanks.github.io",
+    "summary": "I am a student studying at UH MAnoa for Management Information Systems and plan to graduate in May 2020.",
     "location": {
-      "address": "",
+      "address": "1837 Eat-West Rd.",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "leezymula",
+        "url": "http://github.com/leezymula"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "leroybanks",
+        "url": "http://instagram.com/leezymula1"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Software Developing",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Technical Support",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Cyber Security",
       "keywords": [
       ]
     }
